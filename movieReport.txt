@@ -1,0 +1,255 @@
+Production Company                   Year  Title                                                    Duration  
+==================                   ====  =====                                                    ========  
+2D Entertainment                     2021  Jai Bhim                                                      164  
+A24                                  2022  Everything Everywhere All at Once                             139  
+Aamir Khan Productions               2016  Dangal                                                        161  
+                                     2007  Like Stars on Earth                                           165  
+AB Svensk Filmindustri               1966  Persona                                                        83  
+Alcon Entertainment                  2013  Prisoners                                                     153  
+Alfred J. Hitchcock Productions      1958  Vertigo                                                       128  
+                                     1954  Rear Window                                                   112  
+Altavista Films                      2000  Amores perros                                                 154  
+American Zoetrope                    1979  Apocalypse Now                                                147  
+AMLF                                 1984  Amadeus                                                       160  
+Amuse                                2016  Your Name.                                                    106  
+Artisan Entertainment                2000  Requiem for a Dream                                           102  
+Asghar Farhadi Productions           2011  A Separation                                                  123  
+Ashton Productions                   1959  Some Like It Hot                                              121  
+Atelier 41                           1975  Dersu Uzala                                                   142  
+Avsar Film                           2005  My Father and My Son                                          112  
+Bavaria Film                         1981  The Boat                                                      149  
+Belarusfilm                          1985  Come and See                                                  142  
+Blueprint Pictures                   2017  Three Billboards Outside Ebbing, Missouri                     115  
+Bold Films                           2014  Whiplash                                                      106  
+Brandywine Productions               1979  Alien                                                         117  
+Brooksfilms                          1980  The Elephant Man                                              124  
+Bryna Productions                    1957  Paths of Glory                                                 88  
+Buena Vista Home Entertainment       2004  Howl's Moving Castle                                          119  
+Buster Keaton Productions            1926  The General                                                    67  
+                                     1924  Sherlock Jr.                                                   45  
+Carolco Pictures                     1991  Terminator 2: Judgment Day                                    137  
+Castle Rock Entertainment            1999  The Green Mile                                                189  
+                                     1995  Before Sunrise                                                101  
+                                     1994  The Shawshank Redemption                                      142  
+Cecchi Gori Pictures                 1995  Se7en                                                         127  
+Channel Four Films                   1996  Trainspotting                                                  93  
+Charles Chaplin Productions          1940  The Great Dictator                                            125  
+                                     1936  Modern Times                                                   87  
+                                     1931  City Lights                                                    87  
+                                     1925  The Gold Rush                                                  95  
+                                     1921  The Kid                                                        68  
+Chartoff-Winkler Productions         1980  Raging Bull                                                   129  
+                                     1976  Rocky                                                           2  
+Chernin Entertainment                2019  Ford v Ferrari                                                152  
+CICC                                 1953  The Wages of Fear                                             131  
+Cinema '84                           1984  The Terminator                                                107  
+CJ Entertainment                     2019  Parasite                                                      132  
+                                     2016  The Handmaiden                                                145  
+Claudie Ossard Productions           2001  Am lie                                                        122  
+Columbia Pictures                    2021  Spider-Man: No Way Home                                       148  
+                                     2000  Snatch                                                        102  
+                                     1993  Groundhog Day                                                 101  
+                                     1986  Stand by Me                                                    89  
+                                     1976  Taxi Driver                                                   114  
+                                     1939  Mr. Smith Goes to Washington                                  129  
+                                     1934  It Happened One Night                                         105  
+Constantin Film                      2004  Downfall                                                      156  
+Cristaldifilm                        1988  Cinema Paradiso                                               155  
+Daiei                                1950  Rashomon                                                       88  
+Danmarks Radio (DR)                  2012  The Hunt                                                      115  
+DENTSU Music And Entertainment       1997  Princess Mononoke                                             134  
+DreamWorks                           2011  The Help                                                      146  
+DreamWorks Animation                 2010  How to Train Your Dragon                                       98  
+Dreamworks Pictures                  2019  1917                                                          119  
+                                     2002  Catch Me If You Can                                           141  
+                                     2000  Gladiator                                                     155  
+                                     1999  American Beauty                                               122  
+                                     1998  Saving Private Ryan                                           169  
+Edward Small Productions             1957  Witness for the Prosecution                                   116  
+Element Pictures                     2015  Room                                                          118  
+EMI Films                            1978  The Deer Hunter                                               183  
+Exclusive Media Group                2013  Rush                                                          123  
+Fantasy Films                        1975  One Flew Over the Cuckoo's Nest                               133  
+Focus Features                       2004  Eternal Sunshine of the Spotless Mind                         108  
+FortyFour Studios                    2008  WALL E                                                         98  
+Fox 2000 Pictures                    1999  Fight Club                                                    139  
+Fox Searchlight Pictures             2014  The Grand Budapest Hotel                                       99  
+Gaumont                              1994  L on: The Professional                                        110  
+Government of West Bengal            1955  Pather Panchali                                               125  
+Greenwich Film Productions           1985  Ran                                                           162  
+HandMade Films                       1979  Life of Brian                                                  94  
+Hell's Kitchen Films                 1993  In the Name of the Father                                     133  
+Hemdale                              1986  Platoon                                                         2  
+Hollywood Pictures                   1999  The Sixth Sense                                               107  
+Horizon Pictures                     1954  On the Waterfront                                             108  
+Horizon Pictures (II)                1962  Lawrence of Arabia                                            218  
+                                     1957  The Bridge on the River Kwai                                  161  
+Icon Entertainment International     1995  Braveheart                                                    178  
+Igor Film                            1966  The Battle of Algiers                                         121  
+International Film Investors         1982  Gandhi                                                        191  
+Jalem Productions                    1967  Cool Hand Luke                                                127  
+K&S Films                            2014  Wild Tales                                                    122  
+Kanun parvaresh fekri                1997  Children of Heaven                                             89  
+Kurosawa Production Co.              1963  High and Low                                                  143  
+                                     1961  Yojimbo                                                       110  
+Les Films du Carrosse                1959  The 400 Blows                                                  99  
+Les Films du Cru                     2020  The Father                                                     97  
+Les Productions Lazennec             1995  La Haine                                                       98  
+Liberty Films (II)                   1946  It's a Wonderful Life                                         130  
+Lionsgate                            2011  Warrior                                                       140  
+Live Entertainment                   1992  Reservoir Dogs                                                 99  
+London Film Productions              1949  The Third Man                                                  93  
+Lucasfilm                            1983  Star Wars: Episode VI - Return of the Jedi                    131  
+                                     1980  Star Wars: Episode V - The Empire Strikes Back                124  
+                                     1977  Star Wars                                                     121  
+Marvel Studios                       2019  Avengers: Endgame                                             181  
+                                     2018  Avengers: Infinity War                                        149  
+Matten Productions                   2008  Gran Torino                                                   116  
+Melampo Cinematografica              1997  Life Is Beautiful                                             116  
+Melodrama Pictures                   2009  Mary and Max                                                   92  
+Metro-Goldwyn-Mayer (MGM)            1976  Network                                                       121  
+                                     1968  2001: A Space Odyssey                                         149  
+                                     1959  North by Northwest                                            136  
+                                           Ben-Hur                                                       212  
+                                     1952  Singin' in the Rain                                           103  
+                                     1939  The Wizard of Oz                                              102  
+micro_scope                          2010  Incendies                                                     131  
+Miramax                              2003  Kill Bill: Vol. 1                                             111  
+                                     1997  Good Will Hunting                                             126  
+                                     1994  Pulp Fiction                                                  154  
+Mooz Films                           2018  Capernaum                                                     126  
+Nero-Film AG                         1931  M                                                              99  
+New Line Cinema                      2003  The Lord of the Rings: The Return of the King                 201  
+                                     2002  The Lord of the Rings: The Two Towers                         179  
+                                     2001  The Lord of the Rings: The Fellowship of the Ring             178  
+                                     1998  American History X                                            119  
+New Regency Productions              2013  12 Years a Slave                                              134  
+                                     1997  L.A. Confidential                                             138  
+Newmarket Capital Group              2000  Memento                                                       113  
+O2 Filmes                            2002  City of God                                                   130  
+Orion-Nova Productions               1957  12 Angry Men                                                   96  
+Pakula-Mulligan                      1962  To Kill a Mockingbird                                         129  
+Paramount Pictures                   2022  Top Gun: Maverick                                             130  
+                                     2014  Interstellar                                                  169  
+                                     2010  Shutter Island                                                138  
+                                     1998  The Truman Show                                               103  
+                                     1994  Forrest Gump                                                  142  
+                                     1989  Indiana Jones and the Last Crusade                            127  
+                                     1981  Indiana Jones and the Raiders of the Lost Ark                 115  
+                                     1974  Chinatown                                                     130  
+                                           The Godfather: Part II                                        202  
+                                     1972  The Godfather                                                 175  
+                                     1950  Sunset Blvd.                                                  110  
+                                     1944  Double Indemnity                                              107  
+Paramount Vantage                    2007  No Country for Old Men                                        122  
+                                           There Will Be Blood                                           158  
+                                           Into the Wild                                                 148  
+Participant                          2018  Green Book                                                    130  
+                                     2015  Spotlight                                                     129  
+Peregrine                            1975  Barry Lyndon                                                  185  
+Pixar Animation Studios              2015  Inside Out                                                     95  
+                                     2009  Up                                                             96  
+                                     2004  The Incredibles                                               115  
+                                     2003  Finding Nemo                                                  100  
+                                     2001  Monsters, Inc.                                                 92  
+Polygram Filmed Entertainment        1998  The Big Lebowski                                              117  
+PolyGram Filmed Entertainment        1996  Fargo                                                          98  
+                                     1995  The Usual Suspects                                            106  
+Produzioni De Sica                   1948  Bicycle Thieves                                                89  
+Produzioni Europee Associate (PEA)   1966  The Good, the Bad and the Ugly                                178  
+                                     1965  For a Few Dollars More                                        132  
+Python (Monty) Pictures              1975  Monty Python and the Holy Grail                                91  
+Quad                                 2011  The Intouchables                                              112  
+R.P. Productions                     2002  The Pianist                                                   150  
+Rafran Cinematografica               1968  Once Upon a Time in the West                                  165  
+Red Granite Pictures                 2013  The Wolf of Wall Street                                         3  
+RKO Radio Pictures                   1941  Citizen Kane                                                  119  
+Robert Wise Productions              1965  The Sound of Music                                            172  
+Romaine Film Corporation             1942  To Be or Not to Be                                             99  
+Roxlom Films Inc.                    1961  Judgment at Nuremberg                                         179  
+Selznick International Pictures      1940  Rebecca                                                       130  
+                                     1939  Gone with the Wind                                            238  
+Shamley Productions                  1960  Psycho                                                        109  
+Shinchosha Company                   1988  Grave of the Fireflies                                         89  
+Shochiku                             1962  Harakiri                                                      133  
+                                     1953  Tokyo Story                                                   136  
+Show East                            2003  Oldboy                                                          2  
+Sidus                                2003  Memories of Murder                                            132  
+Soci t g n rale des films            1928  The Passion of Joan of Arc                                    114  
+Sony Pictures Entertainment (SPE)    2018  Spider-Man: Into the Spider-Verse                             117  
+Stage 6 Films                        2009  Hachi: A Dog's Tale                                            93  
+Stanley Kubrick Productions          1964  Dr. Strangelove                                                95  
+Strong Heart/Demme Production        1991  The Silence of the Lambs                                      118  
+Summit Entertainment                 2016  Hacksaw Ridge                                                 139  
+                                     1998  Lock, Stock and Two Smoking Barrels                           107  
+Svensk Filmindustri (SF)             1957  Wild Strawberries                                              91  
+                                           The Seventh Seal                                               96  
+Tequila Gang                         2006  Pan's Labyrinth                                               118  
+The Ladd Company                     1984  Once Upon a Time in America                                   229  
+                                     1982  Blade Runner                                                  117  
+The Mirisch Company                  1963  The Great Escape                                              172  
+The Mirisch Corporation              1960  The Apartment                                                 125  
+The Samuel Goldwyn Company           1946  The Best Years of Our Lives                                   170  
+The SPA Studios                      2019  Klaus                                                          96  
+The Weinstein Company                2012  Django Unchained                                              165  
+Toho Company                         1954  Seven Samurai                                                 207  
+                                     1952  Ikiru                                                         143  
+Tokuma Japan Communications          1988  My Neighbor Totoro                                             86  
+Tokuma Shoten                        2001  Spirited Away                                                 125  
+Tornasol Films                       2009  The Secret in Their Eyes                                      129  
+Touchstone Pictures                  2006  The Prestige                                                  130  
+                                     1989  Dead Poets Society                                            128  
+Twentieth Century Fox                2017  Logan                                                         137  
+                                     2014  Gone Girl                                                     149  
+                                     1988  Die Hard                                                      132  
+                                     1986  Aliens                                                        137  
+                                     1950  All About Eve                                                 138  
+                                     1940  The Grapes of Wrath                                           129  
+United Artists                       2004  Hotel Rwanda                                                  121  
+Universal Pictures                   2009  Inglourious Basterds                                          153  
+                                     2001  A Beautiful Mind                                              135  
+                                     1995  Casino                                                        178  
+                                     1993  Jurassic Park                                                 127  
+                                           Schindler's List                                              195  
+                                     1985  Back to the Future                                            116  
+                                     1983  Scarface                                                      170  
+                                     1982  The Thing                                                     109  
+Universum Film (UFA)                 1927  Metropolis                                                    153  
+Vinod Chopra Productions             2009  3 Idiots                                                      170  
+Walt Disney Pictures                 2020  Hamilton                                                      160  
+                                     2017  Coco                                                          105  
+                                     2010  Toy Story 3                                                   103  
+                                     2007  Ratatouille                                                   111  
+                                     2003  Pirates of the Caribbean: The Curse of the Black Pearl        143  
+                                     1995  Toy Story                                                      81  
+                                     1994  The Lion King                                                  88  
+                                     1992  Aladdin                                                        90  
+                                     1991  Beauty and the Beast                                           84  
+Warner Bros.                         2019  Joker                                                         122  
+                                     2015  Mad Max: Fury Road                                              2  
+                                     2012  The Dark Knight Rises                                         164  
+                                     2011  Harry Potter and the Deathly Hallows: Part 2                  130  
+                                     2010  Inception                                                     148  
+                                     2008  The Dark Knight                                               152  
+                                     2006  The Departed                                                  151  
+                                           V for Vendetta                                                132  
+                                     2005  Batman Begins                                                 140  
+                                     2004  Million Dollar Baby                                           132  
+                                     1999  The Matrix                                                    136  
+                                     1995  Heat                                                          170  
+                                     1992  Unforgiven                                                    130  
+                                     1990  Goodfellas                                                    145  
+                                     1987  Full Metal Jacket                                             116  
+                                     1980  The Shining                                                   146  
+                                     1973  The Exorcist                                                  122  
+                                     1971  A Clockwork Orange                                            136  
+                                     1954  Dial M for Murder                                             105  
+                                     1948  The Treasure of the Sierra Madre                              126  
+                                     1942  Casablanca                                                    102  
+Warner Independent Pictures (WIP)    2004  Before Sunset                                                  80  
+Wiedemann & Berg Filmproduktion      2006  The Lives of Others                                           137  
+Zanuck/Brown Productions             1975  Jaws                                                          124  
+                                     1973  The Sting                                                     129  
+
+Total Number of Movies: 250
+

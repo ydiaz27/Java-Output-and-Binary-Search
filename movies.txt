@@ -1,0 +1,250 @@
+The Shawshank Redemption;1994;2;22;Castle Rock Entertainment
+The Godfather;1972;2;55;Paramount Pictures
+The Dark Knight;2008;2;32;Warner Bros.
+The Godfather: Part II;1974;3;22;Paramount Pictures
+12 Angry Men;1957;1;36;Orion-Nova Productions
+Schindler's List;1993;3;15;Universal Pictures
+The Lord of the Rings: The Return of the King;2003;3;21;New Line Cinema
+Pulp Fiction;1994;2;34;Miramax
+The Lord of the Rings: The Fellowship of the Ring;2001;2;58;New Line Cinema
+The Good, the Bad and the Ugly;1966;2;58;Produzioni Europee Associate (PEA)
+Forrest Gump;1994;2;22;Paramount Pictures
+Fight Club;1999;2;19;Fox 2000 Pictures
+Inception;2010;2;28;Warner Bros.
+The Lord of the Rings: The Two Towers;2002;2;59;New Line Cinema
+Star Wars: Episode V - The Empire Strikes Back;1980;2;4;Lucasfilm
+The Matrix;1999;2;16;Warner Bros.
+Goodfellas;1990;2;25;Warner Bros.
+One Flew Over the Cuckoo's Nest;1975;2;13;Fantasy Films
+Se7en;1995;2;7;Cecchi Gori Pictures
+Seven Samurai;1954;3;27;Toho Company
+It's a Wonderful Life;1946;2;10;Liberty Films (II)
+The Silence of the Lambs;1991;1;58;Strong Heart/Demme Production
+City of God;2002;2;10;O2 Filmes
+Saving Private Ryan;1998;2;49;Dreamworks Pictures
+Life Is Beautiful;1997;1;56;Melampo Cinematografica
+The Green Mile;1999;3;9;Castle Rock Entertainment
+Interstellar;2014;2;49;Paramount Pictures
+Star Wars;1977;2;1;Lucasfilm
+Terminator 2: Judgment Day;1991;2;17;Carolco Pictures
+Back to the Future;1985;1;56;Universal Pictures
+Spirited Away;2001;2;5;Tokuma Shoten
+Psycho;1960;1;49;Shamley Productions
+The Pianist;2002;2;30;R.P. Productions
+L on: The Professional;1994;1;50;Gaumont 
+Parasite;2019;2;12;CJ Entertainment
+The Lion King;1994;1;28;Walt Disney Pictures
+Gladiator;2000;2;35;Dreamworks Pictures
+American History X;1998;1;59;New Line Cinema
+The Usual Suspects;1995;1;46;PolyGram Filmed Entertainment
+The Departed;2006;2;31;Warner Bros.
+The Prestige;2006;2;10;Touchstone Pictures
+Casablanca;1942;1;42;Warner Bros.
+Whiplash;2014;1;46;Bold Films
+Top Gun: Maverick;2022;2;10;Paramount Pictures
+The Intouchables;2011;1;52;Quad
+Modern Times;1936;1;27;Charles Chaplin Productions
+Harakiri;1962;2;13;Shochiku
+Grave of the Fireflies;1988;1;29;Shinchosha Company
+Once Upon a Time in the West;1968;2;45;Rafran Cinematografica
+Rear Window;1954;1;52;Alfred J. Hitchcock Productions
+Alien;1979;1;57;Brandywine Productions
+City Lights;1931;1;27;Charles Chaplin Productions
+Cinema Paradiso;1988;2;35;Cristaldifilm
+Memento;2000;1;53;Newmarket Capital Group
+Apocalypse Now;1979;2;27;American Zoetrope
+Indiana Jones and the Raiders of the Lost Ark;1981;1;55;Paramount Pictures
+Django Unchained;2012;2;45;The Weinstein Company
+WALL E;2008;1;38;FortyFour Studios 
+The Lives of Others;2006;2;17;Wiedemann & Berg Filmproduktion
+Sunset Blvd.;1950;1;50;Paramount Pictures
+Paths of Glory;1957;1;28;Bryna Productions
+The Shining;1980;2;26;Warner Bros.
+The Great Dictator;1940;2;5;Charles Chaplin Productions
+Witness for the Prosecution;1957;1;56;Edward Small Productions
+Avengers: Infinity War;2018;2;29;Marvel Studios
+Aliens;1986;2;17;Twentieth Century Fox
+American Beauty;1999;2;2;Dreamworks Pictures
+Dr. Strangelove;1964;1;35;Stanley Kubrick Productions
+Spider-Man: Into the Spider-Verse;2018;1;57;Sony Pictures Entertainment (SPE)
+The Dark Knight Rises;2012;2;44;Warner Bros.
+Oldboy;2003;0;2;Show East
+Joker;2019;2;2;Warner Bros.
+Braveheart;1995;2;58;Icon Entertainment International
+Amadeus;1984;2;40;AMLF
+Toy Story;1995;1;21;Walt Disney Pictures
+Coco;2017;1;45;Walt Disney Pictures
+The Boat;1981;2;29;Bavaria Film
+Inglourious Basterds;2009;2;33;Universal Pictures
+Princess Mononoke;1997;2;14;DENTSU Music And Entertainment
+Avengers: Endgame;2019;3;1;Marvel Studios
+Once Upon a Time in America;1984;3;49;The Ladd Company
+Good Will Hunting;1997;2;6;Miramax
+Toy Story 3;2010;1;43;Walt Disney Pictures
+Requiem for a Dream;2000;1;42;Artisan Entertainment
+Your Name.;2016;1;46;Amuse
+Singin' in the Rain;1952;1;43;Metro-Goldwyn-Mayer (MGM)
+3 Idiots;2009;2;50;Vinod Chopra Productions
+Star Wars: Episode VI - Return of the Jedi;1983;2;11;Lucasfilm
+2001: A Space Odyssey;1968;2;29;Metro-Goldwyn-Mayer (MGM)
+Eternal Sunshine of the Spotless Mind;2004;1;48;Focus Features
+Reservoir Dogs;1992;1;39;Live Entertainment
+High and Low;1963;2;23;Kurosawa Production Co.
+Capernaum;2018;2;6;Mooz Films
+Citizen Kane;1941;1;59;RKO Radio Pictures
+Lawrence of Arabia;1962;3;38;Horizon Pictures (II)
+The Hunt;2012;1;55;Danmarks Radio (DR)
+M;1931;1;39;Nero-Film AG
+North by Northwest;1959;2;16;Metro-Goldwyn-Mayer (MGM)
+Vertigo;1958;2;8;Alfred J. Hitchcock Productions
+Am lie;2001;2;2;Claudie Ossard Productions
+A Clockwork Orange;1971;2;16;Warner Bros.
+Come and See;1985;2;22;Belarusfilm
+Full Metal Jacket;1987;1;56;Warner Bros.
+Double Indemnity;1944;1;47;Paramount Pictures
+The Apartment;1960;2;5;The Mirisch Corporation
+Scarface;1983;2;50;Universal Pictures
+Ikiru;1952;2;23;Toho Company
+The Sting;1973;2;9;Zanuck/Brown Productions
+To Kill a Mockingbird;1962;2;9;Pakula-Mulligan
+Taxi Driver;1976;1;54;Columbia Pictures
+Up;2009;1;36;Pixar Animation Studios
+L.A. Confidential;1997;2;18;New Regency Productions
+Heat;1995;2;50;Warner Bros.
+Metropolis;1927;2;33;Universum Film (UFA)
+A Separation;2011;2;3;Asghar Farhadi Productions
+Die Hard;1988;2;12;Twentieth Century Fox
+Hamilton;2020;2;40;Walt Disney Pictures
+Snatch;2000;1;42;Columbia Pictures
+Incendies;2010;2;11;micro_scope
+Indiana Jones and the Last Crusade;1989;2;7;Paramount Pictures
+Bicycle Thieves;1948;1;29;Produzioni De Sica
+1917;2019;1;59;Dreamworks Pictures
+Like Stars on Earth;2007;2;45;Aamir Khan Productions
+Downfall;2004;2;36;Constantin Film
+For a Few Dollars More;1965;2;12;Produzioni Europee Associate (PEA)
+Batman Begins;2005;2;20;Warner Bros.
+Spider-Man: No Way Home;2021;2;28;Columbia Pictures
+Dangal;2016;2;41;Aamir Khan Productions
+The Kid;1921;1;8;Charles Chaplin Productions
+Some Like It Hot;1959;2;1;Ashton Productions
+The Father;2020;1;37;Les Films du Cru
+All About Eve;1950;2;18;Twentieth Century Fox
+Green Book;2018;2;10;Participant
+The Wolf of Wall Street;2013;0;3;Red Granite Pictures
+Judgment at Nuremberg;1961;2;59;Roxlom Films Inc.
+Unforgiven;1992;2;10;Warner Bros.
+Ran;1985;2;42;Greenwich Film Productions
+Casino;1995;2;58;Universal Pictures
+Pan's Labyrinth;2006;1;58;Tequila Gang
+There Will Be Blood;2007;2;38;Paramount Vantage
+The Sixth Sense;1999;1;47;Hollywood Pictures
+A Beautiful Mind;2001;2;15;Universal Pictures
+The Truman Show;1998;1;43;Paramount Pictures
+Monty Python and the Holy Grail;1975;1;31;Python (Monty) Pictures
+Yojimbo;1961;1;50;Kurosawa Production Co.
+The Treasure of the Sierra Madre;1948;2;6;Warner Bros.
+Shutter Island;2010;2;18;Paramount Pictures
+Rashomon;1950;1;28;Daiei
+Jurassic Park;1993;2;7;Universal Pictures
+Everything Everywhere All at Once;2022;2;19;A24
+The Great Escape;1963;2;52;The Mirisch Company
+Kill Bill: Vol. 1;2003;1;51;Miramax
+No Country for Old Men;2007;2;2;Paramount Vantage
+Finding Nemo;2003;1;40;Pixar Animation Studios
+The Elephant Man;1980;2;4;Brooksfilms
+Chinatown;1974;2;10;Paramount Pictures
+Raging Bull;1980;2;9;Chartoff-Winkler Productions
+Gone with the Wind;1939;3;58;Selznick International Pictures
+V for Vendetta;2006;2;12;Warner Bros.
+The Thing;1982;1;49;Universal Pictures
+Inside Out;2015;1;35;Pixar Animation Studios
+Lock, Stock and Two Smoking Barrels;1998;1;47;Summit Entertainment
+Dial M for Murder;1954;1;45;Warner Bros.
+The Secret in Their Eyes;2009;2;9;Tornasol Films
+Howl's Moving Castle;2004;1;59;Buena Vista Home Entertainment
+The Bridge on the River Kwai;1957;2;41;Horizon Pictures (II)
+Three Billboards Outside Ebbing, Missouri;2017;1;55;Blueprint Pictures
+Trainspotting;1996;1;33;Channel Four Films
+Warrior;2011;2;20;Lionsgate
+Gran Torino;2008;1;56;Matten Productions
+Fargo;1996;1;38;PolyGram Filmed Entertainment
+Prisoners;2013;2;33;Alcon Entertainment
+My Neighbor Totoro;1988;1;26;Tokuma Japan Communications
+Million Dollar Baby;2004;2;12;Warner Bros.
+The Gold Rush;1925;1;35;Charles Chaplin Productions
+Catch Me If You Can;2002;2;21;Dreamworks Pictures
+Blade Runner;1982;1;57;The Ladd Company
+On the Waterfront;1954;1;48;Horizon Pictures
+The Third Man;1949;1;33;London Film Productions
+Children of Heaven;1997;1;29;Kanun parvaresh fekri
+Ben-Hur;1959;3;32;Metro-Goldwyn-Mayer (MGM)
+12 Years a Slave;2013;2;14;New Regency Productions
+The General;1926;1;7;Buster Keaton Productions
+Wild Strawberries;1957;1;31;Svensk Filmindustri (SF)
+Before Sunrise;1995;1;41;Castle Rock Entertainment
+Gone Girl;2014;2;29;Twentieth Century Fox
+Harry Potter and the Deathly Hallows: Part 2;2011;2;10;Warner Bros.
+The Deer Hunter;1978;3;3;EMI Films
+In the Name of the Father;1993;2;13;Hell's Kitchen Films
+The Grand Budapest Hotel;2014;1;39;Fox Searchlight Pictures
+Mr. Smith Goes to Washington;1939;2;9;Columbia Pictures
+The Wages of Fear;1953;2;11;CICC
+Barry Lyndon;1975;3;5;Peregrine
+Sherlock Jr.;1924;0;45;Buster Keaton Productions
+Memories of Murder;2003;2;12;Sidus
+Klaus;2019;1;36;The SPA Studios
+Hacksaw Ridge;2016;2;19;Summit Entertainment
+Room;2015;1;58;Element Pictures
+The Seventh Seal;1957;1;36;Svensk Filmindustri (SF)
+Wild Tales;2014;2;2;K&S Films
+The Big Lebowski;1998;1;57;Polygram Filmed Entertainment
+Mad Max: Fury Road;2015;0;2;Warner Bros.
+How to Train Your Dragon;2010;1;38;DreamWorks Animation
+Mary and Max;2009;1;32;Melodrama Pictures
+Monsters, Inc.;2001;1;32;Pixar Animation Studios
+Jaws;1975;2;4;Zanuck/Brown Productions
+The Passion of Joan of Arc;1928;1;54;Soci t g n rale des films       
+Dead Poets Society;1989;2;8;Touchstone Pictures
+Tokyo Story;1953;2;16;Shochiku
+Hotel Rwanda;2004;2;1;United Artists
+Pather Panchali;1955;2;5;Government of West Bengal
+Rocky;1976;0;2;Chartoff-Winkler Productions
+Platoon;1986;0;2;Hemdale
+Ford v Ferrari;2019;2;32;Chernin Entertainment
+Stand by Me;1986;1;29;Columbia Pictures
+The Terminator;1984;1;47;Cinema '84
+Spotlight;2015;2;9;Participant
+Rush;2013;2;3;Exclusive Media Group
+Network;1976;2;1;Metro-Goldwyn-Mayer (MGM)
+Into the Wild;2007;2;28;Paramount Vantage
+Logan;2017;2;17;Twentieth Century Fox
+The Wizard of Oz;1939;1;42;Metro-Goldwyn-Mayer (MGM)
+Ratatouille;2007;1;51;Walt Disney Pictures
+Groundhog Day;1993;1;41;Columbia Pictures
+Before Sunset;2004;1;20;Warner Independent Pictures (WIP)
+The Exorcist;1973;2;2;Warner Bros.
+The Best Years of Our Lives;1946;2;50;The Samuel Goldwyn Company
+The Incredibles;2004;1;55;Pixar Animation Studios
+To Be or Not to Be;1942;1;39;Romaine Film Corporation
+Rebecca;1940;2;10;Selznick International Pictures
+The Grapes of Wrath;1940;2;9;Twentieth Century Fox
+The Battle of Algiers;1966;2;1;Igor Film
+Hachi: A Dog's Tale;2009;1;33;Stage 6 Films
+Cool Hand Luke;1967;2;7;Jalem Productions
+Amores perros;2000;2;34;Altavista Films
+Pirates of the Caribbean: The Curse of the Black Pearl;2003;2;23;Walt Disney Pictures
+La Haine;1995;1;38;Les Productions Lazennec
+The 400 Blows;1959;1;39;Les Films du Carrosse
+Persona;1966;1;23;AB Svensk Filmindustri
+My Father and My Son;2005;1;52;Avsar Film
+Life of Brian;1979;1;34;HandMade Films
+It Happened One Night;1934;1;45;Columbia Pictures
+The Sound of Music;1965;2;52;Robert Wise Productions
+Dersu Uzala;1975;2;22;Atelier 41
+The Handmaiden;2016;2;25;CJ Entertainment
+Aladdin;1992;1;30;Walt Disney Pictures
+Jai Bhim;2021;2;44;2D Entertainment
+Gandhi;1982;3;11;International Film Investors
+The Help;2011;2;26;DreamWorks
+Beauty and the Beast;1991;1;24;Walt Disney Pictures
